@@ -15,6 +15,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.40.6"
+  android_alarm_manager:
+    dependency: "direct main"
+    description:
+      name: android_alarm_manager
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.5+17"
   archive:
     dependency: transitive
     description:
@@ -383,3 +390,4 @@ packages:
     version: "2.2.1"
 sdks:
   dart: ">=2.12.0-0.0 <3.0.0"
+  flutter: ">=1.12.13+hotfix.5 <2.0.0"
